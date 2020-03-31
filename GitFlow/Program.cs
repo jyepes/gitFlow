@@ -11,6 +11,7 @@ namespace GitFlow
         static void Main(string[] args)
         {
             Console.WriteLine("Feature1");
+            Console.WriteLine("Se corrigen errores en release");
             Console.ReadLine();
 
         }
