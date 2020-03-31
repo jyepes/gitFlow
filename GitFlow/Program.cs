@@ -13,6 +13,7 @@ namespace GitFlow
             Console.WriteLine("Feature1");
             Console.WriteLine("Se corrigen errores en release");
             Console.WriteLine("Se corrigen errores en el hotfix");
+            Console.WriteLine("Feature2");
             Console.ReadLine();
 
         }
