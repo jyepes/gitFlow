@@ -10,6 +10,9 @@ namespace GitFlow
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Feature1");
+            Console.ReadLine();
+
         }
     }
 }
